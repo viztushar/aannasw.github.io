@@ -1,9 +1,10 @@
 ---
-title: "2017 Reading List"
+title: "2018 Reading List"
 layout: post
 tag: books
 img: indigo/indigo.png
-projects: true
+projects: true	
+draft: true
 author: artiannaswamy
 summary: "List of books I'm reading in 2017"
 permalink: reading-list-2017
