@@ -20,11 +20,6 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 - [Books Read in 2017](#read)
 - [Abandoned in 2017](#abandoned)
 
-History:
-
-- Published: Mar 11, 2017
-- Updated: Feb 18, 2018
-
 ---
 
 <div class="breaker"></div><a id="newtech"></a>
@@ -66,17 +61,19 @@ A couple of years ago, Goodreads helpfully started scanning my lists of 'Want to
 
 <h3>1. <a href="http://amzn.to/1VIZUYR" target="_blank">Influence: The Psychology of Persuasion</a> by Robert B. Cialdini (1984)</h3>	
 <p align="center"><a href="http://amzn.to/1VIZUYR" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/influence.jpg" /></a></p>
-Review: Loved this book! The concepts of persuasion outlined in this book are timeless, even if in some cases, the examples aren't - case in point, I don't know of anyone who refers to "confidence-men" anymore. Although the use cases are sometimes stuck in the 80s, the author's underlying message is powerful and worth absorbing. 
+I loved this book! The concepts of persuasion outlined in this book are timeless, even if in some cases, the examples aren't - case in point, I don't know of anyone who refers to "confidence-men" anymore. Although the use cases are sometimes stuck in the 80s, the author's underlying message is powerful and worth absorbing. 
 
 <h3>2. <a href="http://amzn.to/1OCxYQN" target="_blank">Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</a> by Dava Sobel (2010)</h3>	
 <p align="center"><a href="http://amzn.to/1OCxYQN" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/longitude-dava-sobel.jpg" /></a></p>
-Review: This book hit a lot of relevant notes for me - travel, entrepreneurship, innovation, challenges of communicating new technology. What I didn't realize, and now have a new appreciation for, is the connection between accurate timekeeping and navigating the seas.
+This book hit a lot of relevant notes for me - travel, entrepreneurship, innovation, challenges of communicating new technology. What I didn't realize, and now have a new appreciation for, is the connection between accurate timekeeping and navigating the seas.
 
 <h3>3. The Handmaid's Tale by Margaret Atwood</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003JFJHTS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_CqCIAbR9GSAPJ" ></iframe>
+Dystopian and disturbing. The writing was great, the book was a page-turner and the main character's inner life felt authentic. It's the sort of book that stayed with me, even as I wondered how truly 'futuristic' or 'dystopian' this world really was when women still have so far to go and so much to change to feel truly equal.
 
 <h3>4. To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History by Lawrence Levy</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01912OSA0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_HqCIAbBQ996HN" ></iframe>
+Pixar recently released Coco, which I absolutely loved and recommend as an example of what authentic ethnic storytelling should look like. News also came out regarding a pattern of alleged misconduct by John Lasseter, the Chief Creative Officer at Pixar. This book serves as an interesting point-in-time capture of Lawrence Levy's recollections of his time at Pixar - starting just before Toy Story was released, and ending around the time Disney fully acquired Pixar.
 
 <h3>5. On Writing: A Memoir Of the Craft by Stephen King</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000FC0SIM&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_NqCIAbZJB43DB" ></iframe>
