@@ -11,15 +11,15 @@ permalink: reading-list-2018
 jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_VU5IAbQ3AJ9N2" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003062GEE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_3U5IAb51B0AW9" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B010MH9YNE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_8U5IAb8EQ5WHQ" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01M0614T9&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Nk6IAbEBHEN3V" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IQO403K&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_jk6IAbHQDDEZS" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00JYWVYLY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_rk6IAbXVR52WY" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01N0Z1EY0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_vo6IAb4SN6EYK" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DM9Q6CQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Oo6IAbQWB18C3" ></iframe>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00SEFAIRI&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_7p6IAbR8SHATF" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_VU5IAbQ3AJ9N2" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003062GEE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_3U5IAb51B0AW9" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B010MH9YNE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_8U5IAb8EQ5WHQ" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01M0614T9&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Nk6IAbEBHEN3V" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IQO403K&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_jk6IAbHQDDEZS" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00JYWVYLY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_rk6IAbXVR52WY" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01N0Z1EY0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_vo6IAb4SN6EYK" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DM9Q6CQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Oo6IAbQWB18C3" ></iframe>
+<iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00SEFAIRI&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_7p6IAbR8SHATF" ></iframe>
 
 ---
 
