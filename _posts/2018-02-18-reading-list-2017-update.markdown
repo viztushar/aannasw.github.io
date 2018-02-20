@@ -59,12 +59,12 @@ A couple of years ago, Goodreads helpfully started scanning my lists of 'Want to
 <div class="breaker"></div><a id="read"></a>
 <h2 class="title">Books Read in 2017</h2>
 
-<h3>1. <a href="http://amzn.to/1VIZUYR" target="_blank">Influence: The Psychology of Persuasion</a> by Robert B. Cialdini (1984)</h3>	
-<p align="center"><a href="http://amzn.to/1VIZUYR" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/influence.jpg" /></a></p>
+<h3>1. Influence: The Psychology of Persuasion by Robert B. Cialdini (1984)</h3>	
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B002BD2UUC&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_0l5IAbT25P3CY" ></iframe>
 I loved this book! The concepts of persuasion outlined in this book are timeless, even if in some cases, the examples aren't - case in point, I don't know of anyone who refers to "confidence-men" anymore. Although the use cases are sometimes stuck in the 80s, the author's underlying message is powerful and worth absorbing. 
 
-<h3>2. <a href="http://amzn.to/1OCxYQN" target="_blank">Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time</a> by Dava Sobel (2010)</h3>	
-<p align="center"><a href="http://amzn.to/1OCxYQN" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/longitude-dava-sobel.jpg" /></a></p>
+<h3>2. Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel (2010)</h3>	
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003WUYE66&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_6l5IAb2944W3D" ></iframe>
 This book hit a lot of relevant notes for me - travel, entrepreneurship, innovation, challenges of communicating new technology. What I didn't realize, and now have a new appreciation for, is the connection between accurate timekeeping and navigating the seas.
 
 <h3>3. The Handmaid's Tale by Margaret Atwood</h3>
@@ -73,16 +73,19 @@ Dystopian and disturbing. The writing was great, the book was a page-turner and 
 
 <h3>4. To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History by Lawrence Levy</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01912OSA0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_HqCIAbBQ996HN" ></iframe>
-Pixar recently released Coco, which I absolutely loved and recommend as an example of what authentic ethnic storytelling should look like. News also came out regarding a pattern of alleged misconduct by John Lasseter, the Chief Creative Officer at Pixar. This book serves as an interesting point-in-time capture of Lawrence Levy's recollections of his time at Pixar - starting just before Toy Story was released, and ending around the time Disney fully acquired Pixar.
+Pixar recently released Coco, which I absolutely loved and recommend as an example of what authentic ethnic storytelling should look like. News also came out regarding a pattern of alleged misconduct by John Lasseter, the Chief Creative Officer at Pixar. This book serves as an interesting point-in-time capture of Lawrence Levy's recollections of his time at Pixar - starting just before Toy Story was released, and ending around the time Disney fully acquired Pixar. It was nevertheless interesting to read about how Pixar worked to preserve its culture of prioritizing story above all else.
 
 <h3>5. On Writing: A Memoir Of the Craft by Stephen King</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000FC0SIM&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_NqCIAbZJB43DB" ></iframe>
+I hope to read this book at least once every few years. Stephen King writes about his writing process, his advice to new writers, and about his writing career - drugs, alcohol and all. This isn't a textbook about writing, but neither is it just a memoir. The advice and the memories all weave together seamlessly and it's more layered than it appears at first read. I don't know that I came away with very concrete writing advice beyond 'don't use adverbs', but I was certainly by King's no-excuse attitude towards writing.
 
 <h3>6. Harry Potter and the Cursed Child by J.K.Rowling</h3> 
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B073P962D9&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_WdCIAb0BCF234" ></iframe>
+Having re-read the original Harry Potter books multiple times, I was a little hesitant to read this since it seemed too different to be a continuation of the original story - i.e. it's a play and it's not about Harry and friends, not really. But after reading it, I can reassure you that this certainly inhabits the world of Harry Potter, and it was certainly lovely to hang out with the characters, both new and old, one more time. I wasn't wild about the play format and the story did seem to move quicker because of the requirement for the characters to be doing / saying something (they can't just think, that would be quite boring on stage). At the same time, I was quite amazed at the amount of magical activity that happens in the book as I couldn't envision how that would be performed on stage. Good book and worth a read for the Harry Potter fan.
 
 <h3>7. The Graveyard Book by Neil Gaiman</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0011UJM48&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_UrCIAbR39C7E5" ></iframe>
+Loved this story! At the recommendation of a friend, I had read American Gods a while ago and was impressed by the scale and genius of it but didn't really love the characters or the story. This felt exactly the opposite. It starts as a small, intimate story about a child in a graveyard and becomes so much more eventually. The characters stay with you, the story is heartwarming and grand and heroic. I first heard of this book on Tim Ferriss's podcast - he <a href="https://twitter.com/tferriss/status/349934486579978241" target="_blank">recommends the audiobook version</a> narrated by Gaiman himself and highlights this book as a starting point for those who usually only read non-fiction and are looking to dip their toes in the water with respect to fiction.  
 
 ---
 <div class="breaker"></div><a id="reading-list"></a>
@@ -90,31 +93,32 @@ Pixar recently released Coco, which I absolutely loved and recommend as an examp
 
 <h3>8. What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JeCIAbKEW0MD0" ></iframe>
+Ever wanted to get fully thought out, scientifically precise answers to questions like "What would happen if the earth stopped spinning?" or "What happens if everyone in the world gathers in one place and jumps together?" or "How big does a laser pointer have to be to heat the moon?". No? Well, don't be so sure. I'm halfway through this book and thoroughly enjoying the scenarios researched so scientifically by Randall that I never gave a thought to before now.
 
 <h3>9. <a href="http://a.co/bVT9UbG" target="_blank">Death by Black Hole: And Other Cosmic Quandaries</a> by Neil deGrasse Tyson
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000XPPVCY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_YlCIAbXYRGGBY" ></iframe>
-
+Similar to the above but more galactic and comprehensive, and more patiently explained by Neil deGrasse Tyson. Enjoying this so far.
 
 <h3>10. The Underground Railroad by Colson Whitehead</h3>
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01A4ATV0A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_oqCIAb3DNQHET" ></iframe>
-
+So far, it has been a sprawling portrait of one woman as she bears life on the plantation. The eBook expired before I could finish it, but I will definitely re-borrow when I have some time to dedicate to the book.
 
 ---
 <div class="breaker"></div><a id="abandoned"></a>
 <h2 class="title">Books I abandoned</h2>
 
-<h3>1. <a href="http://amzn.to/1oN3wid" target="_blank">No ordinary time: Franklin and Eleanor Roosevelt : the home front in World War II</a> by Doris Kearns Goodwin (1994)</h3>	
-*Category: Biographies & Memoirs > Presidents*
-<p align="center"><a href="http://amzn.to/1oN3wid" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/no-ordinary-time.jpg" /></a></p>	
+<h3>1. No ordinary time: Franklin and Eleanor Roosevelt : the home front in World War II by Doris Kearns Goodwin (1994)</h3>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B002HJV79U&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_eU5IAbV49RG8B" ></iframe>
+Slightly demoralizing to read how separate of a life Franklin and Eleanor Roosevelt lived during FDR's pivotal presidency before and during WW2. Definitely want to learn more but this is too stark and intimate of a look behind the scenes.
 
-<h3>2. <a href="http://amzn.to/1VIYSfB" target="_blank">Sapiens: A Brief History of Humankind</a> by Yuval Noah Harari (2011)</h3>
-*Category: Anthropology*
-<p align="center"><a href="http://amzn.to/1VIYSfB" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/sapiens.jpg" /></a></p>
+<h3>2. Sapiens: A Brief History of Humankind by Yuval Noah Harari (2011)</h3>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_VU5IAbQ3AJ9N2" ></iframe>
+The previous book I read and liked in this genre was the <a href="http://a.co/9cc9CJr" target="_blank">The Naked Ape: A Zoologist's Study of the Human Animal</a> by Desmond Morris. The tone in 'Naked Ape' is lighter and the book is more fast-paced than Sapiens, so I may need to adjust my expectations of Sapiens before getting back to it.
 
-<h3>3. <a href="http://a.co/eH5mleN" target="_blank">Open</a> by Andre Agassi (2009)</h3>
-*Category: Biographies & Memoirs > Modern*
-<p align="center"><a href="http://a.co/eH5mleN" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/open-andre-agassi.jpg" /></a></p>
+<h3>3. Open by Andre Agassi (2009)</h3>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B003062GEE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_3U5IAb51B0AW9" ></iframe>
+The opening chapters of the book are riveting - Agassi gives a live play-by-play of what it feels like the morning of a big match, just before it, during it and after it. I was halfway through the book and into his phase of life when he is busy rebelling and fighting the establishment. I might still get back to it - the book is well written and Agassi serves up insightful anecdotes in the making of a greatest of all time athlete.
 
-<h3>4. <a href="http://a.co/d8S7fuA" target="_blank">Overwatch: A Thriller (The Logan West Thrillers)</a> by Matthew Betley (2016)</h3>
-*Category: Literary Fiction > Action & Adventure*	
-<p align="center"><a href="http://a.co/d8S7fuA" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/overwatch.jpg" /></a></p>
+<h3>4. Overwatch: A Thriller (The Logan West Thrillers) by Matthew Betley (2016)</h3>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B010MH9YNE&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_8U5IAb8EQ5WHQ" ></iframe>
+Not the style of writing I like to read.
