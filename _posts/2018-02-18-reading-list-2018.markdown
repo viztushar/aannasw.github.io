@@ -20,11 +20,3 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01N0Z1EY0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_vo6IAb4SN6EYK" ></iframe>
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DM9Q6CQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Oo6IAbQWB18C3" ></iframe>
 <iframe type="text/html" width="212" height="362" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00SEFAIRI&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_7p6IAbR8SHATF" ></iframe>
-
----
-
-<h2 class="title">Previous reading list posts</h2>
-
-- <a href="http://artiannaswamy.com/reading-list-2016" target="_blank">2016 Reading List</a>
-- <a href="http://artiannaswamy.com/reading-list-2017" target="_blank">2017 Reading List</a>
-- <a href="http://artiannaswamy.com/reading-list-2017-update" target="_blank">2017 Reading List Recap/Update</a>
